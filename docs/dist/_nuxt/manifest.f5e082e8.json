@@ -1,0 +1,11 @@
+{
+  "name": "noco-docs-prev",
+  "short_name": "noco-docs-prev",
+  "description": "We're no longer updating this content regularly. For version `v0.90` onwards, please check out [here](https://docs.nocodb.com/).",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3282ff",
+  "lang": "en"
+}
